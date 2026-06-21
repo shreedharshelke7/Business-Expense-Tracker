@@ -1,4 +1,14 @@
+# Environment variables
+.env
+
+# Outputs folder
 outputs/
+
+# Python cache
 __pycache__/
 *.pyc
-.env
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
