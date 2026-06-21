@@ -1,0 +1,37 @@
+Date,Department,Category,Description,Amount,Budget
+03-01-2024,Marketing,Travel,Client meeting travel,4200,5000
+05-01-2024,Operations,Software,Inventory software subscription,2800,
+06-01-2024,HR,Salaries,Monthly payroll processing,19800,20000
+08-01-2024,Marketing,Office Supplies,Printer paper and stationery,950,1500
+10-01-2024,Operations,Travel,Warehouse inspection travel,3900,5000
+12-01-2024,HR,Software,HR management tool renewal,2500,3000
+15-01-2024,Marketing,Salaries,Freelance campaign payments,18700,20000
+18-01-2024,Operations,Office Supplies,Packaging office materials,1200,1500
+20-01-2024,HR,Travel,Recruitment travel expenses,4600,5000
+22-01-2024,Marketing,Software,Design software license,2700,3000
+25-01-2024,Operations,Salaries,Operations contract staff payroll,20100,20000
+28-01-2024,HR,Office Supplies,Employee onboarding kits,1300,1500
+02-02-2024,Marketing,Travel,Conference travel booking,15000,5000
+04-02-2024,Operations,Software,Cloud platform subscription,2950,3000
+06-02-2024,HR,Salaries,Monthly payroll processing,19900,20000
+08-02-2024,Marketing,Office Supplies,Event banners and materials,1100,1500
+10-02-2024,Operations,Travel,Vendor site travel,4400,5000
+12-02-2024,HR,Software,Recruitment portal payment,12000,3000
+15-02-2024,Marketing,Salaries,Advertising consultant payroll,19200,20000
+18-02-2024,Operations,Office Supplies,Warehouse stationery purchase,1400,1500
+20-02-2024,HR,Travel,Campus hiring travel,4800,5000
+22-02-2024,Marketing,Software,Analytics platform renewal,2850,3000
+25-02-2024,Operations,Salaries,Shift worker payroll,50000,20000
+27-02-2024,HR,Office Supplies,Desk supplies purchase,1250,1500
+01-03-2024,Marketing,Travel,Client presentation travel,4300,5000
+03-03-2024,Operations,Software,Maintenance software renewal,2750,3000
+05-03-2024,HR,Salaries,Monthly payroll processing,20050,20000
+07-03-2024,Marketing,Office Supplies,Promotional office materials,1050,1500
+09-03-2024,Operations,Travel,Factory audit travel,18000,5000
+11-03-2024,HR,Software,Employee engagement tool,2900,3000
+14-03-2024,Marketing,Salaries,Campaign management payroll,19400,20000
+16-03-2024,Operations,Office Supplies,Office chair replacements,8000,1500
+18-03-2024,HR,Travel,Training workshop travel,4700,5000
+20-03-2024,Marketing,Software,CRM subscription payment,2600,3000
+24-03-2024,Operations,Salaries,Operations support payroll,20300,20000
+27-03-2024,HR,Office Supplies,Office pantry supplies,1350,1500
